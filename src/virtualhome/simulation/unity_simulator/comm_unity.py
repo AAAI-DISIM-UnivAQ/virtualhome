@@ -1,6 +1,6 @@
 
 import base64
-import collections
+import collections.abc as collections
 import time
 import io
 import json
